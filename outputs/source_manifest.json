@@ -1,0 +1,65 @@
+[
+  {
+    "city": "Edinburgh",
+    "filename": "Edinburgh_2025-01-01_2025-12-31_871f95ed2007.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.9533&longitude=-3.1883&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "871f95ed20070f9223463d9873c175fdeebb0ee35a2a9ce6b45b355a5f65c380",
+    "retrieved_at": "2026-11-16T10:39:20.956968+00:00"
+  },
+  {
+    "city": "Edinburgh",
+    "filename": "Edinburgh_2025-01-01_2025-12-31_9bfd26654b9d.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.9533&longitude=-3.1883&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "9bfd26654b9d7a01be2d8b7211f55accf1c188945f4eb878499536247833d1c5",
+    "retrieved_at": "2026-11-16T10:48:21.751658+00:00"
+  },
+  {
+    "city": "Edinburgh",
+    "filename": "Edinburgh_2025-01-01_2025-12-31_c1ec132779b1.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=55.9533&longitude=-3.1883&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "c1ec132779b1d284d1bc3566fddedc98c4799543d15aaeaedd047658e0c0c9fe",
+    "retrieved_at": "2026-11-16T10:52:40.435042+00:00"
+  },
+  {
+    "city": "London",
+    "filename": "London_2025-01-01_2025-12-31_16203fcd925f.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=51.5074&longitude=-0.1278&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "16203fcd925f9a0367d06785ccab97746b91103fc8375db852432aaa3b9fce28",
+    "retrieved_at": "2026-11-16T10:39:20.859323+00:00"
+  },
+  {
+    "city": "London",
+    "filename": "London_2025-01-01_2025-12-31_4df7acfbd210.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=51.5074&longitude=-0.1278&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "4df7acfbd210d72abd4ec3218fd077e44e7a3b584a209d41310bc981fefc8317",
+    "retrieved_at": "2026-11-16T10:48:21.616468+00:00"
+  },
+  {
+    "city": "London",
+    "filename": "London_2025-01-01_2025-12-31_a4dfcacff870.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=51.5074&longitude=-0.1278&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "a4dfcacff870b732f18b2ee8c68c8fea581ed5d866e67abaefbac65b17637c37",
+    "retrieved_at": "2026-11-16T10:52:40.308886+00:00"
+  },
+  {
+    "city": "Manchester",
+    "filename": "Manchester_2025-01-01_2025-12-31_19f7e66159c1.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=53.4808&longitude=-2.2426&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "19f7e66159c1f525280a68f20263edfadd76e658c765fb31ac12fbd6fbcd8be1",
+    "retrieved_at": "2026-11-16T10:39:20.910148+00:00"
+  },
+  {
+    "city": "Manchester",
+    "filename": "Manchester_2025-01-01_2025-12-31_3a7a1898e80e.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=53.4808&longitude=-2.2426&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "3a7a1898e80e7e0556ec980b06a89dc10a6b0edffd2173774bb4cd605f02c488",
+    "retrieved_at": "2026-11-16T10:52:40.384218+00:00"
+  },
+  {
+    "city": "Manchester",
+    "filename": "Manchester_2025-01-01_2025-12-31_7648277f01dc.json",
+    "url": "https://archive-api.open-meteo.com/v1/archive?latitude=53.4808&longitude=-2.2426&start_date=2025-01-01&end_date=2025-12-31&daily=temperature_2m_mean%2Cprecipitation_sum%2Cwind_speed_10m_max&timezone=Europe%2FLondon&models=era5&temperature_unit=celsius&wind_speed_unit=kmh&precipitation_unit=mm",
+    "sha256": "7648277f01dcc03a594749dc2558fa514e8e76f7e387a82bf459b6cb25019d06",
+    "retrieved_at": "2026-11-16T10:48:21.695327+00:00"
+  }
+]

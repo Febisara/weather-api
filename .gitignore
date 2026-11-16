@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+pgpass.conf
+*.pgpass
+logs/
+data/raw/
+data/processed/

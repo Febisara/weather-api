@@ -1,0 +1,15 @@
+.\.venv\Scripts\python.exe : test_missing_value (test_pipeline.ValidationTests.test_missing_value) ... ok
+At line:1 char:1
++ .\.venv\Scripts\python.exe -m unittest -v test_pipeline.py 2>&1 |
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (test_missing_va...g_value) ... ok:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+test_valid (test_pipeline.ValidationTests.test_valid) ... ok
+test_wrong_date (test_pipeline.ValidationTests.test_wrong_date) ... ok
+test_wrong_units (test_pipeline.ValidationTests.test_wrong_units) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
