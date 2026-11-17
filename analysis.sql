@@ -1,6 +1,10 @@
 SELECT city, count(*) AS days,
  min(day) AS first_day, max(day) AS last_day
-FROM weather_daily GROUP BY city ORDER BY city;
+FROM weather_daily 
+WHERE day >= DATE '2025-01-01' 
+	AND day < '2026-01-01'
+GROUP BY city 
+ORDER BY city;
 
 -- These thresholds are illustrative screening rules, not official warnings.
 SELECT city, date_trunc('month',day)::date AS month,
