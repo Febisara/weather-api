@@ -38,6 +38,6 @@ London January's SQL result matched the Python report: 31 days, mean temperature
 
 ## Scope and assistance
 
-Scheduling was not configured. run_daily.cmd is an untested optional template, not evidence of deployed automation. No independent extension was completed.
+The published project is a manually run historical weather pipeline covering 2025. Scheduling and the attempted configurable-year reporting extension are excluded from the final deliverable.
 
 I used the supplied course implementation and AI guidance for setup, troubleshooting and documentation. The final review checked raw snapshots, hashes and exported results independently, without connecting to my PostgreSQL server.

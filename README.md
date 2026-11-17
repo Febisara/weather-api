@@ -163,10 +163,6 @@ GROUP BY city ORDER BY precipitation_mm DESC;
 
 Save these results to outputs/report_spot_check.csv and outputs/annual_weather.csv. Future API revisions may change values; preserve new metadata rather than forcing agreement with these results.
 
-### Optional scheduling
-
-run_daily.cmd is supplied as an optional template and has not been deployed or verified. Before using it, configure its actual host/port and an appropriately protected local password file outside the repository. No scheduled task or automatic alerting is claimed.
-
 ## Project files
 
 | File | Purpose |
@@ -176,7 +172,6 @@ run_daily.cmd is supplied as an optional template and has not been deployed or v
 | test_pipeline.py | Four payload-validation tests |
 | analysis.sql | Coverage, monthly weather and run-history queries |
 | report.py | Monthly CSV and chart generation |
-| run_daily.cmd | Optional, unconfigured refresh template |
 | requirements.txt / requirements-lock.txt | Package bounds / recorded versions |
 | outputs/ | Reports, evidence exports, chart and source manifest |
 | DATA_SOURCE.md | Source attribution, terms and retrieval metadata |
